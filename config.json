@@ -1,0 +1,1 @@
+{    "width": 4,    "height": 4,    "tile_size": 40,    "wall_thickness": 4,    "colors": {        "start": [0, 0, 255],        "wall": [0, 255, 0],        "finish": [255, 0, 0],        "background": [0, 0, 0]    },    "fov": 100,    "turn_sensitivity": 5,    "wall_height": 200,    "resolution_width": 1366,    "resolution_height": 768,    "ray_step" : 0.1}
